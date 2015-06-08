@@ -1,29 +1,25 @@
-# Charlottesville Meetup/Group Code of Conduct
+# Group Code of Conduct
 
 ## The Short Version
 
-We are dedicated to providing an inclusive and harassment-free experience for everyone regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, religion, or socioeconomic status. We welcome participation and do not tolerate harassment of participants in any form. Sexual language and imagery is not appropriate for any venue, including talks. Participants violating these rules may be sanctioned or expelled from the group at the discretion of the organizers. Our anti-harassment policy can be found at [github.com/cville/conduct](https://github.com/cville/conduct).
+We are dedicated to providing an inclusive and harassment-free experience for everyone regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, religion, or socioeconomic status. We welcome participation and do not tolerate harassment of participants in any form. Sexual language and imagery is not appropriate for any venue, including talks. Participants violating these rules may be sanctioned or expelled from the group at the discretion of the organizers. Our anti-harassment policy can be found at [LINK_NAME](LINK_HREF).
 
 ---
 
 ## About this Code of Conduct
 
-This code of conduct is a collaboration in the Charlottesville community to proactively create a safe and inclusive environment for participants of meetups, group, and online groups. Organizers implement this Code of Conduct by doing the following:
+This code of conduct is a collaboration in the group community to proactively create a safe and inclusive environment for participants of meetups, group, and online groups. Organizers implement this Code of Conduct by doing the following:
 
 1. Link this Code of Conduct to the main page of the organization.
 2. Provide contact information of an Organizer with the Code of Conduct link.
 3. Summarize this Code of Conduct at the start of events.
 
-Contributors to this Code of Conduct are [listed here](https://github.com/cville/conduct/graphs/contributors). If you have comments or would like to contribute, you can submit a note or a pull request in the [issues](https://github.com/cville/conduct/issues) area. You can find a wiki list of known organizations using this Code of Conduct [here](https://github.com/cville/conduct/wiki/Organizations-using-this-code-of-conduct).
 
 ---
 
 ## Useful Phone Numbers
 
-* **Yellow Cab:** Call 434-295-4131 or text address to 434-202-5525.
-* **Non-Emergency Police:** 434-970-3280.
-* **Sexual Assault 24-Hour Hotline:** 434-977-7273.
-* **UVA Health System Emergency Department:** 434-924-2231.
+* **LINK NAME:** NUMBER.
 
 ---
 
@@ -92,4 +88,4 @@ In general, consult with other organizers when possible but act when necessary.
 
 This policy is licensed under the Creative Commons Zero license. It is public domain, no credit and no open licensing of your version is required.
 
-It was forked on Sep 23, 2014, from the example policy from the [Geek Feminism wiki](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment_policy), created by the Ada Initiative and other volunteers.
+It was forked on June 8, 2015, from the example policy from the [Charlottesville Meetup community](https://github.com/cville/conduct).
